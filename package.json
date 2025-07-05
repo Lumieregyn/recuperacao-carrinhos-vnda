@@ -1,0 +1,13 @@
+{
+  "name": "recuperacao-carrinhos-vnda",
+  "version": "1.0.0",
+  "description": "Automação para capturar carrinhos abandonados da Vnda e disparar via WhatsApp",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
